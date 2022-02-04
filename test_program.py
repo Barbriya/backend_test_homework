@@ -18,3 +18,4 @@ def test_program():
             'Исправьте в нем ошибки:\n'
             f'{e}'
         )
+D:Dev/backend_test_homework$ python3 -m venv venv
